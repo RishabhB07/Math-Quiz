@@ -35,3 +35,7 @@ text-align: left;
 #Logo{
 	height: 300px;
 }
+
+label{
+	font-size: 20px;
+}
